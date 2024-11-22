@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Del3 Övningar/1.0.0": {
+        "runtime": {
+          "Del3 Övningar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Del3 Övningar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
