@@ -1,9 +1,5 @@
 ﻿Console.WriteLine(GetChoice("Adam", "Imad", "Janan"));
 
-
-
-
-
 string GetChoice(string string1, string string2, string string3)
 {
     string[] stringArray = [string1, string2, string3];
